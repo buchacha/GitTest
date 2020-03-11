@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         t = findViewById(R.id.text);
         t.setText("Buchacha was here");
         t.setText("Buchacha went out");
+        t.setText("Buchacha get crazy");
 
     }
 }
