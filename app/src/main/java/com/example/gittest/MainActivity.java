@@ -17,6 +17,8 @@ public class MainActivity extends AppCompatActivity {
         t.setText("Buchacha was here");
         t.setText("Buchacha went out");
         t.setText("Buchacha get crazy");
+        t.setText("Buchacha get too much crazy");
+
 
     }
 }
